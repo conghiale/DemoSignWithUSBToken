@@ -1,0 +1,2 @@
+# DemoSignWithUSBToken
+MOBILE_ID DemoSignWithUSBToken
